@@ -1,6 +1,7 @@
 # Assembly Basics
 
 كتابة أكواد باستخدام لغة اسمبلي متدرجاً من البداية
+Tools used: Run and tested using emu8086
 
 ## Files Directory
 
