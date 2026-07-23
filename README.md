@@ -15,6 +15,6 @@ Tools used: Run and tested using emu8086
 | [Print Even 1 to 20](./print-even-1-to-20.asm) | A program that filters and prints even numbers from 1 to 20. |
 | [Sum 1 to 10](./sum-1-to-10.asm) | Calculates the cumulative sum of numbers from 1 to 10. |
 |[Add 5 repeatedly](./add-5-repeatedly.asm)|Add 5 repeatedly to ax with printing every step|
-
+|[Subtract 3 repeatedly|(./subtract-3-repeatedly.asm)|Subtract 3 repeatedly from ax with print every step|
 ---
 *This repository tracks my journey in learning assembly language basics.*
