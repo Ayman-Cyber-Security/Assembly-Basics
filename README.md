@@ -16,6 +16,7 @@ Tools used: Run and tested using emu8086
 | [Sum 1 to 10](./sum-1-to-10.asm) | Calculates the cumulative sum of numbers from 1 to 10. |
 |[Add 5 repeatedly](./add-5-repeatedly.asm)|Add 5 repeatedly to ax with printing every step|
 |[Subtract 3 repeatedly](./subtract-3-repeatedly.asm)|Subtract 3 repeatedly from ax with print every step|
-|[multiplication table 7](./multiplication-table-7.asm)| |
+|[Multiplication table 7](./multiplication-table-7.asm)| |
+|[Divide by 2 repeatedly](./divide-by-2-repeatedly.asm)|Repeatedly divides a number by 2 using div, with dx reset before each division|
 ---
 *This repository tracks my journey in learning assembly language basics.*
